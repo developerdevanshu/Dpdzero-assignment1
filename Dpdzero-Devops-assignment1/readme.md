@@ -2,7 +2,7 @@
 
 # 🚀 Multi-Service Docker Project with Nginx Reverse Proxy
 
-This project sets up two backend services — one in **Go** and another in **Python (Flask)** — managed using **Docker Compose** and routed via an **Nginx reverse proxy**, allowing both to be accessed through a single port.
+This project sets up two backend services — one in **Go** and another in **Python (Flask)** — managed using **Docker Compose** and routed via an **Nginx reverse proxy**, allowing both to be accessed through a single port number.
 
 ---
 
